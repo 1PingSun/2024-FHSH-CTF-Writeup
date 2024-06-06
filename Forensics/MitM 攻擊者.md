@@ -21,7 +21,7 @@ Author: Adams
 
 本題 Flag 有額外格式；`fhsfctf{\S}`
 
-[ftp.pcap](./src/ftp/pcap)
+[ftp.pcap](./src/ftp.pcap)
 
 ## Write-up
 
