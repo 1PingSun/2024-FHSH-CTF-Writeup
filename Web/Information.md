@@ -2,9 +2,9 @@
 
 Author: 孫逸平
 
-Date: 
+Date: 2024-06-08
 
-Link: 
+Link: https://ctfd.fhh4ck3rs.taipei/challenges#Information-29
 
 ## 題目說明
 
